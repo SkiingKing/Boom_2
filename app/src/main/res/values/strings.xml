@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task: CE-1257218</string>
+    <string name="firth_text">Municipal economy</string>
+    <string name="second_text">Create</string>
+    <string name="Third_text">Registered</string>
+    <string name="Fourth_text">Run to</string>
+    <string name="Fiveth_text">Responsible</string>
+    <string name="Sixth_text">In work</string>
+    <string name="Seventh_text">27 january 2016</string>
+    <string name="Eightth_text">27 january 2016</string>
+    <string name="Tenth_text">27 january 2016</string>
+    <string name="Eleventh_text">Dnipropetrovsk MVK</string>
+    <string name="Longtext">The text is a human thought fixed on any material carrier; in general, a connected and complete sequence of symbols</string>
+    <string name="menu_item_text_1">Point 1</string>
+    <string name="menu_item_text_2">Point 2</string>
+</resources>
